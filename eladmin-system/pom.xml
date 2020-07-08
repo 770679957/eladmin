@@ -39,6 +39,13 @@
             <version>2.5</version>
         </dependency>
 
+        <!-- 福缘门小程序 模块 -->
+        <dependency>
+            <groupId>me.zhengjie</groupId>
+            <artifactId>eladmin-fuyuanmen</artifactId>
+            <version>2.5</version>
+        </dependency>
+
         <!-- Spring boot websocket -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
